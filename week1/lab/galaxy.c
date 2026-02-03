@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main(){
-  printf("Hello This is boring!\n");
+  printf("Hello Galaxy!\n");
   return 0;
 }
+
+
